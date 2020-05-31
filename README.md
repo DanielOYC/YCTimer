@@ -1,0 +1,2 @@
+# YCTimer
+一个基于GCD的OC定时封装，为了解决CADisplaylink、NSTimer使用时不小心产生循环引用问题，以及对定时精度有一定要求的
